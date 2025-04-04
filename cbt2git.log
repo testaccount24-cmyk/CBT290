@@ -1,0 +1,14 @@
+2025-04-04 07:21:02.810555 - Received CBT.V508.FILE290.PDS from FILE290.XMI 
+2025-04-04 07:21:02.811460 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:21:02.811645 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/$$$DOC
+2025-04-04 07:21:02.811820 - Found #DIE.bin (application/octet-stream) in CBT.V508.FILE290.PDS, moved to PDS/#DIE
+2025-04-04 07:21:02.811946 - Found @FILE290.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/@FILE290
+2025-04-04 07:21:02.812088 - Found ASCCTLAM.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/ASCCTLAM
+2025-04-04 07:21:02.812221 - Found EQUREGS.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/EQUREGS
+2025-04-04 07:21:02.812379 - Found GPSAM.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/GPSAM
+2025-04-04 07:21:02.812502 - Found GPSMDD.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/GPSMDD
+2025-04-04 07:21:02.812620 - Found GPSMOPEN.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/GPSMOPEN
+2025-04-04 07:21:02.812740 - Found GPSMSUBS.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/GPSMSUBS
+2025-04-04 07:21:02.812869 - Found HAL.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/HAL
+2025-04-04 07:21:02.812996 - Found HALFMT.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/HALFMT
+2025-04-04 07:21:02.813108 - Found LOWCASAM.txt (text/plain) in CBT.V508.FILE290.PDS, moved to PDS/LOWCASAM
